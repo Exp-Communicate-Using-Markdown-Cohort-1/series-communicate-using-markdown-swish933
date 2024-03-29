@@ -1,2 +1,4 @@
 # Markdown tutorial
 ### Headers
+
+![Tesla Cybertruck](https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Mobile-Landscape.jpg)
